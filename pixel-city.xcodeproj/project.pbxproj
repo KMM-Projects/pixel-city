@@ -13,6 +13,7 @@
 		49965F6B206FA970008C8C41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49965F69206FA970008C8C41 /* Main.storyboard */; };
 		49965F6D206FA970008C8C41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49965F6C206FA970008C8C41 /* Assets.xcassets */; };
 		49965F70206FA970008C8C41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49965F6E206FA970008C8C41 /* LaunchScreen.storyboard */; };
+		49965F7C20721FA8008C8C41 /* droppablePin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49965F7B20721FA8008C8C41 /* droppablePin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		49965F6C206FA970008C8C41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49965F6F206FA970008C8C41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49965F71206FA971008C8C41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49965F7B20721FA8008C8C41 /* droppablePin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = droppablePin.swift; sourceTree = "<group>"; };
 		ED771CEF9890F9143FDD6951 /* Pods-pixel-city.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pixel-city.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pixel-city/Pods-pixel-city.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 		49965F78206FA9FC008C8C41 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				49965F7B20721FA8008C8C41 /* droppablePin.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49965F68206FA970008C8C41 /* MapVC.swift in Sources */,
+				49965F7C20721FA8008C8C41 /* droppablePin.swift in Sources */,
 				49965F66206FA970008C8C41 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
