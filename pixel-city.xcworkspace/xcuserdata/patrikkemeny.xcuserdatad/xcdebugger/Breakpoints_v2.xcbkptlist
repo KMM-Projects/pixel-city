@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pixel-city/Controller/MapVC.swift"
+            timestampString = "545365226.647339"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "retrieveUrls(forAnnotation:handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pixel_city.MapVC.retrieveUrls(forAnnotation: pixel_city.DroppablePin, handler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "pixel-city"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patrikkemeny/Documents/iOS11%20&amp;%20Swift4/Core%20iOS%2011%20Auto%20Layout,%20Segues,%20and%20Professional%20Apps/pixel-city/pixel-city/Controller/MapVC.swift"
+                  timestampString = "544850671.238584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "430">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in pixel_city.MapVC.retrieveUrls(forAnnotation: pixel_city.DroppablePin, handler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "pixel-city"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patrikkemeny/Documents/iOS11%20&amp;%20Swift4/Core%20iOS%2011%20Auto%20Layout,%20Segues,%20and%20Professional%20Apps/pixel-city/pixel-city/Controller/MapVC.swift"
+                  timestampString = "544850671.247893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "721">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
